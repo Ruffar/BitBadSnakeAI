@@ -10,6 +10,7 @@ WARNING: this project is unfinished and does not function properly yet
 The snake is able to sense:
 - Whether something is in front, left, or right of the snake
 - Angle between snake direction and snake to apple
+
 (4 inputs)
 
 From these inputs, the brain creates 3 outputs which determine whether it will move forward, left, or right
