@@ -1,11 +1,11 @@
-#What is this project for?#
+#What is this project for?
 
 This just a small project for me to practice using TensorFlow and being comfortable with the basics of machine learning
 WARNING: this project is unfinished and does not function properly yet
 
-#Brain Overview#
+#Brain Overview
 
-##Brain Inputs / Senses##
+##Brain Inputs / Senses
 
 The snake is able to sense:
 - Whether something is in front, left, or right of the snake
@@ -14,7 +14,7 @@ The snake is able to sense:
 
 From these inputs, the brain creates 3 outputs which determine whether it will move forward, left, or right
 
-##Improvements to be made##
+##Improvements to be made
 
 - *Either restructure the neural network, train it more, or change how it's trained as it can't consistently get the apple
 - Find a better reward system/picking of training data so that local maxima of snake moving in circles do not occur
@@ -22,7 +22,7 @@ From these inputs, the brain creates 3 outputs which determine whether it will m
 
 [* important]
 
-##Learning Resources Used##
+##Learning Resources Used
 
 [Article on Basic Snake Neural Network](https://towardsdatascience.com/today-im-going-to-talk-about-a-small-practical-example-of-using-neural-networks-training-one-to-6b2cbd6efdb3)
 
